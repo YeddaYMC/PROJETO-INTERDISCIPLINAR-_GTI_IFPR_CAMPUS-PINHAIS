@@ -2,9 +2,17 @@
 
 Registros do Desenvolvimento do Projeto Interdisciplinar.
 
-Autoras : [Mary Ana Carvalhais Carneiro](https://github.com/Mary-Ana-Carvalhais-Carneiro)
+<div translate="no" class="notranslate">
 
-          [Yedda Maria Carvalhais](https://github.com/YeddaMC)
+### Autoras
+
+* [Mary Ana Carvalhais Carneiro](https://github.com/Mary-Ana-Carvalhais-Carneiro)
+* [Yedda Maria Carvalhais](https://github.com/YeddaMC)
+
+</div>
+
+
+
 
 [Projeto fases 1 e 2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_GTI_IFPR)
 
